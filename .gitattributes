@@ -1,0 +1,2 @@
+# Exclude vmlinux from github stats
+include/vmlinux.h linguist-vendored
